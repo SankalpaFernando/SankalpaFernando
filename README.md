@@ -2,4 +2,6 @@
 
 # SANKALPA FERNANDO
 
-<img src="https://sankalpafernando.github.io/image/avatar.11a1de5d.png" width="15"/>
+<center>
+<img src="https://sankalpafernando.github.io/image/avatar.11a1de5d.png" width="250" height="250"/>
+</center>
