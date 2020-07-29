@@ -2,6 +2,6 @@
 
 # SANKALPA FERNANDO
 
-<center>
-<img src="https://sankalpafernando.github.io/image/avatar.11a1de5d.png" width="250" height="250"/>
-</center>
+<img src="https://sankalpafernando.github.io/image/Frame%201.png"  />
+
+# Software Engineer Software Developer 
