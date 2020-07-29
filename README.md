@@ -23,6 +23,6 @@ while(true){
 
 ## Reach Me Through Here
 
-[My Portfolio](https://sankalpafernando.github.io/port/) 
-[My Facebook](https://sankalpafernando.github.io/port/) 
-[My LinkedIn](https://lk.linkedin.com/in/sankalpa-fernando-004a1b1a2)
+[Portfolio](https://sankalpafernando.github.io/port/) 
+[Facebook](https://sankalpafernando.github.io/port/) 
+[LinkedIn](https://lk.linkedin.com/in/sankalpa-fernando-004a1b1a2)
