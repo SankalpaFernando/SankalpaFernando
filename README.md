@@ -3,7 +3,7 @@
 
 <img src="https://sankalpafernando.github.io/image/frame2.png"  />
 
-## Software Engineer / MERN Stack Developer
+# Software Engineer / MERN Stack Developer
 
 I'm self taught developer who works as an Intern Software Engineer.I love to write code and learn new technologies. I have been working on my blog to teach coding for others since 2019.
 
