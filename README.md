@@ -1,6 +1,5 @@
-# Hi,It's Sankalpa Here 🙋‍♂️
+## Hi,It's Sankalpa Here 🙋‍♂️
 
+# SANKALPA FERNANDO
 
-### SANKALPA FERNANDO
-
-<img src="https://sankalpafernando.github.io/image/avatar.11a1de5d.png" style="margin:1em auto;display:flex;width:20em;height:20em;" />
+<img src="https://sankalpafernando.github.io/image/avatar.11a1de5d.png" width="15"/>
