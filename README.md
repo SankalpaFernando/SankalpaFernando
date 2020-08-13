@@ -26,4 +26,4 @@ while(true){
 
 ## Reach Me Through Here
 
-[https://raw.githubusercontent.com/sankalpafernando/sankalpafernando/master/facebook-fill.png](https://raw.githubusercontent.com/sankalpafernando/sankalpafernando/master/facebook-fill.png)
+(https://raw.githubusercontent.com/sankalpafernando/sankalpafernando/master/facebook-fill.png)
