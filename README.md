@@ -14,7 +14,7 @@ while(true){
     code()  // Literally for 10-12 hours
     learn() // 4-5 hours
     teach() // 2 hours
-    sleep() // What is this 😂
+    sleep() 
 }
 ```
 
