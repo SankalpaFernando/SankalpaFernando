@@ -22,11 +22,10 @@ while(true){
 * I'm interested on Devops in these days
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankalpafernando)](https://github.com/anuraghazra/github-readme-stats)
-[2.2]: 
+
 
 ## Reach Me Through Here
 
 [2.2]: https://raw.githubusercontent.com/sankalpafernando/sankalpafernando/master/facebook-fill.png
 [2]: https://www.linkedin.com/in/heinz-martin
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
