@@ -24,7 +24,8 @@ while(true){
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankalpafernando)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=sankalpafernando" />
-
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 ## Reach Me Through Here
 
