@@ -18,7 +18,7 @@ while(true){
 }
 ```
 
-* Currently I'm working at Beta Launch 🔨 as an Intern Software Engineer
+* I have worked at Beta Launch 🔨 as an Intern Software Engineer
 * I'm interested on Devops in these days
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankalpafernando)](https://github.com/anuraghazra/github-readme-stats)
