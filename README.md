@@ -1,5 +1,10 @@
 # Hi,It's Sankalpa Here 🙋‍♂️
-
+<style>
+    .flex{
+        display: flex;
+        gap: 2rem;
+    }
+</style>
 
 <img src="https://sankalpafernando.github.io/image/frame2.png"  />
 
@@ -20,8 +25,9 @@ while(true){
 
 * I have worked at Beta Launch 🔨 as an Intern Software Engineer
 <br><br>
-
+<div class="flex">
     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankalpafernando)](https://github.com/anuraghazra/github-readme-stats)<br>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpafernando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
