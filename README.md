@@ -20,6 +20,7 @@ while(true){
 
 * I have worked at Beta Launch 🔨 as an Intern Software Engineer
 * I'm interested on Devops in these days
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpafernando)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankalpafernando)](https://github.com/anuraghazra/github-readme-stats)
 
