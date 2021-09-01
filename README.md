@@ -20,8 +20,8 @@ while(true){
 
 * I have worked at Beta Launch 🔨 as an Intern Software Engineer
 <br><br>
-<div style="display:flex;">
+
     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sankalpafernando)](https://github.com/anuraghazra/github-readme-stats)<br>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpafernando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
