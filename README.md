@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sankalpafernando2017@gmail.comn**
 
-- ⚡ Fun fact **I never drink Coffee**
+- ⚡ Fun fact **I hate Coffee**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
