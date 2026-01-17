@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpafernando&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpafernando" /> </p>
 
-
-- 🌱 I’m currently learning **Spring Boot**
-
 - 📝 I regularly write articles on [https://medium.com/@sankalpafernando2017](https://medium.com/@sankalpafernando2017)
 
 - 💬 Ask me about **MERN Stack and Java**
@@ -13,10 +10,6 @@
 - 📫 How to reach me **sankalpafernando2017@gmail.comn**
 
 - ⚡ Fun fact **I hate Coffee**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
