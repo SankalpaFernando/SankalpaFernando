@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/sankalpafernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sankalpafernando" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sankalpa-fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalpa-fernando" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sankalpa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9717151/sankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sankalpa" height="30" width="40" /></a>
 <a href="https://medium.com/@sankalpafernando2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sankalpafernando2017" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sankalpafernand1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sankalpafernand1" height="30" width="40" /></a>
 </p>
