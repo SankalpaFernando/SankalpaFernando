@@ -55,7 +55,7 @@
 
 <p><b>Backend</b></p>
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,go,django"/>
 </p>
 
 <p><b>Databases</b></p>
