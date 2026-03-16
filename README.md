@@ -78,9 +78,6 @@ https://medium.com/@sankalpafernando2017
 
 <p><b>📊 GitHub Stats</b></p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=sankalpafernando&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpafernando&layout=compact&theme=tokyonight"/>
