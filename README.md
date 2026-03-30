@@ -76,14 +76,7 @@ https://medium.com/@sankalpafernando2017
 </a>
 </p>
 
-<p><b>📊 GitHub Stats</b></p>
-
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpafernando&layout=compact&theme=tokyonight"/>
-</p>
-
- <p><b>🔥 GitHub Streak</b></p>
+<p><b>🔥 GitHub Streak</b></p>
 <p>
 <img src="https://streak-stats.demolab.com/?user=sankalpafernando&theme=tokyonight"/>
 </p>
