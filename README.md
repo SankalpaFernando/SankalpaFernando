@@ -76,8 +76,8 @@ https://medium.com/@sankalpafernando2017
 </a>
 </p>
 
-<!-- <p><b>🔥 GitHub Streak</b></p>
+<p><b>🔥 GitHub Streak</b></p>
 <p>
 <img src="https://streak-stats.demolab.com/?user=sankalpafernando&theme=tokyonight"/>
-</p> -->
+</p> 
 
